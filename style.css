@@ -1,0 +1,46 @@
+body {
+    color: white;
+    background: #02397f;
+    border: solid 3px rgb(3, 154, 255)
+}
+
+header {
+    border: solid 2px rgb(3, 154, 255);
+    font-size: 27px;
+    color: #03d9ff
+}
+
+
+section {
+  background: #731ff5;
+  display: flex;
+  justify-content: center 
+}
+
+
+.texto {
+    margin-top: 5%;
+}
+
+img {
+    height: 200px;
+}
+
+    div{
+ padding-top: 20px;
+ padding-bottom: 30px;
+    }
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.categorias-videos {
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+
+img{
+    opacity: 0,5;
+}
